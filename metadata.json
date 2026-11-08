@@ -1,0 +1,6 @@
+{
+  "name": "O Mito de Sísifo - Endless 2D Arcade",
+  "description": "Jogo 2D minimalista arcade baseado no mito de Sísifo, com física de declive contínua, sistema de input paralelo e arquitetura modular de alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
